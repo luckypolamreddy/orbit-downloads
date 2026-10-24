@@ -1,0 +1,8 @@
+*.exe
+*.dmg
+*.zip
+*.AppImage
+*.deb
+*.blockmap
+node_modules/
+.env*
